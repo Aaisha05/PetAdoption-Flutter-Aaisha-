@@ -1,6 +1,6 @@
-# helloworld
+# Pet Adoption App
 
-A new Flutter project.
+All the general requirements are met in this project along with a few additional features. The entire code is present in the main.dart file. 
 
 ## Getting Started
 
